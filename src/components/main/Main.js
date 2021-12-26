@@ -1,4 +1,4 @@
-import { Box, Container } from "@mui/material";
+import { Box } from "@mui/material";
 import React from "react";
 import About from "./about/About";
 import Info from "./info/Info";
