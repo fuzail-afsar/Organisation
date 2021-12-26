@@ -20,7 +20,8 @@ jobs:
       uses: actions/setup-node@v2-beta
       with:
         node-version: 16
-    - run: npm run build
+    - name: Build react app
+      run: npm run build
     - name: Install Surge
       run: npm install --global surge
     - name: Deploy To Surge
