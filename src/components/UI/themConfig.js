@@ -1,0 +1,12 @@
+export const PRE_PRIMARY = "#333333";
+export const PRIMARY = "#1a73e8";
+export const SECONDARY = "#666666";
+export const SECONDARY_LIGHT = "#7d7f80";
+export const SECONDARY_BORDER = "#b5b5b5";
+export const SECONDARY_BORDER_LIGHT = "#e2e2e2";
+export const BODY = "#f2f2f2";
+export const TEXT_PRIMARY = "#111111";
+export const TEXT_SECONDARY = "#aaaaaa";
+export const BACKGROUND_ALTERNATE = "#edf0f3";
+export const BACKGROUND_ALTERNATE_LIGHT = "#e0e0e0";
+export const FONT = "Oxygen";

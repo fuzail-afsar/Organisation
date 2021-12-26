@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Oxygen";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Oxygen-Regular"), local("OxygenRegular"),
+        url("./Oxygen-Regular.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "Oxygen";
+    font-style: normal;
+    font-weight: 200;
+    src: local("Oxygen-Light"), local("OxygenLight"),
+        url("./Oxygen-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oxygen";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Oxygen-Bold"), local("OxygenBold"),
+        url("./Oxygen-Bold.ttf") format("truetype");
+}
