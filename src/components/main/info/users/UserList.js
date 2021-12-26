@@ -13,7 +13,7 @@ import React, { useState } from "react";
 import { avatarLetters } from "../../../../helper/helper";
 
 const UserList = ({ users }) => {
-  const [selectedUser, setSelectedUser] = useState(users[0].email);
+  const [selectedUser, setSelectedUser] = useState(users[0]?.email);
   const userListItemClickHandler = (email) => setSelectedUser(email);
   return (
     <List sx={{ py: 0, minHeight: { md: 511 } }}>
